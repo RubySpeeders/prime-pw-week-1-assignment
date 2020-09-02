@@ -24,6 +24,7 @@ p {
 
 /* Put a border around your image */
 img {
+  height: 300px;
   border: 3px solid #cc85c0;
   border-radius: 25px;
 }
